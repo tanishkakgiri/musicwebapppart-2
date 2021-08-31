@@ -1,0 +1,42 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    background-size: cover;
+}
+.note{
+    font-size: 15px;
+    color: black;
+}
+.stop_button , .play_button{
+    width: 140px;
+    font-size: 25px;
+    border: 5px solid white;
+    padding-right: 5px;
+}
+canvas{
+    margin-top: 110px;
+    border-radius: 300px;
+    border:5px solid rgb(106, 34, 116);
+}
+#logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    border: 5px solid pink;
+
+}
+.footer {
+    font-size: 20px;
+    position: fixed;
+    color: yellow;
+    bottom: 0;
+    width: 100%;
+    background-color:goldenrod;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+  }
